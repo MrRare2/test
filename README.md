@@ -6,3 +6,6 @@ A warning
 
 > [!NOTE]
 ok
+
+> [!CRITICAL]
+okf

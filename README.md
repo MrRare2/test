@@ -7,5 +7,5 @@ A warning
 > [!NOTE]
 ok
 
-> [!CRITICAL]
+> [!DEBUG]
 okf
